@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\ProjFutebol_01\ProjFutebol_01\obj\Debug\netcoreapp3.1\ProjFutebol_01.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\ProjFutebol_01\ProjFutebol_01\obj\Debug\netcoreapp3.1\ProjFutebol_01.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\ProjFutebol_01\ProjFutebol_01\obj\Debug\netcoreapp3.1\ProjFutebol_01.AssemblyInfo.cs
+C:\Users\victo\source\repos\ProjFutebol_01\ProjFutebol_01\bin\Debug\netcoreapp3.1\ProjFutebol_01.exe
+C:\Users\victo\source\repos\ProjFutebol_01\ProjFutebol_01\bin\Debug\netcoreapp3.1\ProjFutebol_01.deps.json
+C:\Users\victo\source\repos\ProjFutebol_01\ProjFutebol_01\bin\Debug\netcoreapp3.1\ProjFutebol_01.runtimeconfig.json
+C:\Users\victo\source\repos\ProjFutebol_01\ProjFutebol_01\bin\Debug\netcoreapp3.1\ProjFutebol_01.runtimeconfig.dev.json
+C:\Users\victo\source\repos\ProjFutebol_01\ProjFutebol_01\bin\Debug\netcoreapp3.1\ProjFutebol_01.dll
+C:\Users\victo\source\repos\ProjFutebol_01\ProjFutebol_01\bin\Debug\netcoreapp3.1\ProjFutebol_01.pdb
+C:\Users\victo\source\repos\ProjFutebol_01\ProjFutebol_01\obj\Debug\netcoreapp3.1\ProjFutebol_01.dll
+C:\Users\victo\source\repos\ProjFutebol_01\ProjFutebol_01\obj\Debug\netcoreapp3.1\ProjFutebol_01.pdb
